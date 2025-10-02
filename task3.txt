@@ -1,1 +1,2 @@
 DevOps
+Строка из ветки feature2
