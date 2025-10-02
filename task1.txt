@@ -1,3 +1,4 @@
 Мой логин: aibarys
 Password ****
 Top secret!!!
+Новая строка из ветки feature1
