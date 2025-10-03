@@ -1,3 +1,7 @@
 DevOps
 Строка из ветки feature2
+
 Строка из main
+
+Строка из feature2
+
